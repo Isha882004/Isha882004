@@ -55,13 +55,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Isha882004&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ## 🔥 GitHub Streak
 
@@ -71,13 +64,6 @@
 
 ---
 
-## 📈 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isha882004&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ## 🧠 Currently Learning
 
@@ -90,8 +76,8 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="ishagarg.882004@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/isha-garg-768946258/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
 </p>
 
 ---
